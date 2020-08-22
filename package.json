@@ -13,10 +13,10 @@
     "lint": "npx eslint src/javascripts/**/*.js  spec/**/*.js",
     "fixlint": "npx eslint src/javascripts/**/*.js  spec/**/*.js --fix"
   },
-  "homepage": "https://yourGithubUserName.github.io/XXXXXXXXXXX/",
+  "homepage": "https://github.com/toomec2105/2-webjpa-frontend",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourGithubUserName/XXXXXXXXX.git"
+    "url": "git+https://github.com/toomec2105/2-webjpa-frontend.git"
   },
   "dependencies": {
     "local-storage": "^2.0.0",
